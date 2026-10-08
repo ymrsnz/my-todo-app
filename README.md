@@ -63,3 +63,9 @@ This project is open source and available under the MIT License.
 ## Author
 
 Created by ymrsnz
+
+## A Joke to End On
+
+Why did the developer's todo list never get shorter?
+
+Because every time they finished a task, they added "write tests for that task" and "refactor that task" to the bottom. 📝
